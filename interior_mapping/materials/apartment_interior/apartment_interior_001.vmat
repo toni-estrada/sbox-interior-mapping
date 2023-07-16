@@ -1,0 +1,17 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "shaders/interior_mapping.shader"
+
+	//---- Fog ----
+	g_bFogEnabled "0"
+
+	//---- Room Cubemap ----
+	g_flDepthValue "1.000"
+	g_flFlipX "1"
+	g_flFlipY "-1"
+	g_flFlipZ "1"
+	g_flTiling "1"
+	RoomCubemap "materials/cubemaps/env_cubemap_apartment.png"
+}

@@ -1,0 +1,37 @@
+{
+  "publish": {
+    "Allowed": true,
+    "Enabled": false,
+    "ProjectConfig": {
+      "Title": "cubemap_capture_environment",
+      "Type": "map",
+      "Org": "local",
+      "Ident": "cubemap_capture_environment",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [],
+      "EditorReferences": [
+        "eurorp.door04_left_01#12558",
+        "additionproject.picture_frame1#12740",
+        "facepunch.binbag_a2#17182",
+        "facepunch.ceiling_plaster_01#17458",
+        "polyhaven.modular_airduc_01_vent1#20418",
+        "facepunch.switch#18251",
+        "facepunch.wall_brick_new#18729",
+        "facepunch.binbag_a3#17183",
+        "additionproject.pictureframe_02#12796",
+        "facepunch.floor_wood_laminated#18686",
+        "facepunch.plaster_a#18740"
+      ],
+      "Metadata": {
+        "SingleAssetSource": "maps/cubemap_capture_environment.vmap"
+      }
+    }
+  }
+}
